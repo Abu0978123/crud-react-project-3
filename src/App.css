@@ -1,0 +1,81 @@
+/* html{
+  background: rgb(5, 38, 14);
+}
+.container-fluid{
+  background: rgb(9, 82, 50);
+}
+input[type='text']{
+  background: transparent;
+  color: white;
+}
+input[type="text"] :focus{
+  background: transparent ;
+  color: white;
+} */
+.container-fluid{
+  text-align: center;
+  justify-content: center;
+  background: rgb(189, 167, 167);
+  font-style: italic;
+  font-size: large;
+}
+.bg{
+  font-style: italic;
+}
+.bgg{
+  font-style: italic;
+}
+.fa-solid{
+  font-size: 16px;
+  padding: 5px;
+}
+.fa-trash{
+  color: red;
+}
+.boxx{
+  width: 600px;
+  height: 600px;
+  background: rgb(192, 188, 188);
+  margin-top: 30px;
+  padding-top: 12px;
+  border-radius: 100px;
+  
+}
+.home-btn{
+  align-items: center;
+  text-align: center;
+}
+.buttonstyle{
+  background: none;
+  border: none;
+}
+.form-tag{
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  background: rgb(221, 210, 210);
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 30px;
+}
+.fontStylee{
+  font-size: 15px;
+  text-align: center;
+  color: red;
+  background: rgb(227, 192, 192);
+  border-radius: 30px;
+}
+.icon{
+  font-size: 2rem;
+  color: rgb(97, 11, 244);
+}
+.numb{
+  font-size: 19px;
+  font-weight: bold;
+  color: white;
+  background: rgb(245, 0, 0);
+}
+.card1{
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
