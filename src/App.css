@@ -3,7 +3,7 @@
 }
 .container-fluid{
   background: rgb(9, 82, 50);
-}
+}//
 input[type='text']{
   background: transparent;
   color: white;
@@ -68,7 +68,7 @@ input[type="text"] :focus{
 .icon{
   font-size: 2rem;
   color: rgb(97, 11, 244);
-}
+}  
 .numb{
   font-size: 19px;
   font-weight: bold;
